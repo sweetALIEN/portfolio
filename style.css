@@ -36,6 +36,9 @@ header nav ul li {
     font-size: 18px;
     line-height: 20px;
 }
+header nav ul li a {
+    color: #ffffff;
+}
 
 header nav ul li:not(:first-child) {
     margin-left: 70px;
